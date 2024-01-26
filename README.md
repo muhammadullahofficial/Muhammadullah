@@ -33,6 +33,7 @@ Contact:
 • Email: wafaayankhan@gmail.com
 • LinkedIn: https://www.linkedin.com/in/wafa-ayan/
 • GitHub: https://github.com/Wafaayan
+• X: https://twitter.com/wafaayankhan
 
 Call to action:
 
