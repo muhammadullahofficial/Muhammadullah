@@ -1,4 +1,4 @@
-I'm a Software Engineer and content creator passionate about using technology to solve real-world problems. I create educational and informative content on YouTube, where I share my knowledge and experience in software engineering, web development, and more. I'm also a strong advocate for diversity and inclusion in the tech industry.
+I'm a Software Engineer and content creator passionate about using technology to solve real-world problems. I create educational and informative content on YouTube, sharing my knowledge and experience in software engineering, web development, and more. I also strongly advocate for diversity and inclusion in the tech industry.
 
 Skills:
 
@@ -28,8 +28,8 @@ I'm seeking job opportunities in software engineering and web development. I'm a
 
 Contact:
 
-• Email: wafaayankhan@gmail.com
+• Email: programmerpro881@gmail.com
 
 Call to action:
 
-I am always looking for new ways to learn and grow. If you have any feedback on my content or suggestions for future topics, please don't hesitate to contact me. I am also open to collaborating with other content creators and businesses in the tech industry.
+I am always looking for new ways to learn and grow. Please don't hesitate to contact me if you have any feedback on my content or suggestions for future topics. I am also open to collaborating with other content creators and businesses in the tech industry.
