@@ -29,6 +29,7 @@ I'm seeking job opportunities in software engineering and web development. I'm a
 Contact:
 
 • Email: programmerpro881@gmail.com
+• Linkedin: www.linkedin.com/in/muhammadullah881
 
 Call to action:
 
