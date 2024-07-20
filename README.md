@@ -24,13 +24,8 @@ Interests:
 
 Looking for:
 
-I'm seeking job opportunities in software engineering and web development. I'm also interested in connecting with other software engineers, content creators, and people passionate about using technology to positively impact the world.
-
-Contact:
-
-• Email: programmerpro881@gmail.com
-• Linkedin: www.linkedin.com/in/muhammadullah881
+I'm seeking job opportunities in software engineering and web development. I'm also interested in connecting with other software engineers, content creators, and people passionate about using technology to impact the world positively.
 
 Call to action:
 
-I am always looking for new ways to learn and grow. Please don't hesitate to contact me if you have any feedback on my content or suggestions for future topics. I am also open to collaborating with other content creators and businesses in the tech industry.
+I am always looking for new ways to learn and grow. Please feel free to contact me with any feedback on my content or suggestions for future topics. I am also open to collaborating with other content creators and businesses in the tech industry.
